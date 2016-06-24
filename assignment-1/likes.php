@@ -1,11 +1,12 @@
 <?php 
 	include('database.php');
+	include 'functions.php';
 
 	//connect to DB
 	$conn = connect_db();
 
 	//get data from the form
-	$PID = $_POST['PID'];
+	$PID = sanitizeString($_POST['PID']);
 
 	//query DB for this Post
 

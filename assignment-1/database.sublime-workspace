@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"border	Attr"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"num",
+				"num_of_rows"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"db",
+				"dbname"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"f",
+				"fieldset	Tag"
+			],
+			[
+				"pa",
+				"placeholder	Attr"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"cene",
+				"centered"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"no",
+				"no_of_x_tiles"
+			],
+			[
+				"tile",
+				"tileWidth"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/smart/Documents/udacity/version-control/reflections/lesson_1_reflections.txt",
+		"/Users/smart/Library/Application Support/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/Users/smart/Documents/UTSA/CS4413 WebTech/Lecture-3/untitled.php",
+		"/Users/smart/Documents/UTSA/CS4413 WebTech/Lecture-2/login.php",
+		"/Applications/MAMP/htdocs/CS4413 WebTech/Lecture-2/database.php",
+		"/Applications/MAMP/htdocs/CS4413 WebTech/Lecture-2/functions.php",
+		"/Applications/MAMP/htdocs/CS4413 WebTech/Lecture-2/feed.php",
+		"/Applications/MAMP/htdocs/CS4413 WebTech/Lecture-2/login.html",
+		"/Applications/MAMP/htdocs/CS4413 WebTech/Lecture-2/login.php",
+		"/Users/smart/Documents/UTSA/CS4000 We Technologies/feed.php",
+		"/Users/smart/Documents/UTSA/CS4000 We Technologies/code.php",
+		"/Users/smart/Documents/UTSA/CS4000 We Technologies/login.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/module2/test2.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/module2/test1.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/module2/input_controls.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/module0/index.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/internal_hyperlink.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/justTesting.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/external_hyperlinks.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/font.html",
+		"/Users/smart/Documents/edx/Microsoft - html css javascript/untitled.html",
+		"/Users/smart/Desktop/haskell_lab1",
+		"/Users/smart/Documents/code/webdev/practice/test_web1/opening-the-box-model/index.html",
+		"/Users/smart/Documents/code/webdev/practice/test_web1/html/secondary.html",
+		"/Users/smart/Documents/code/webdev/practice/test_web1/css/secondary.css",
+		"/Users/smart/Documents/code/webdev/practice/test_web1/html/main.html",
+		"/Users/smart/Documents/code/webdev/practice/test_web1/css/main.css",
+		"/Users/smart/Documents/code/webdev/css_reset_for_browsers",
+		"/Users/smart/Documents/code/webdev/practice/test_web1/css/main.html",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas_project/html/structure.html",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas_project/html/canvas.html",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas_project/javascript/canvas.js",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas_project/media/boom.png",
+		"/Users/smart/Library/Application Support/Sublime Text 3/Packages/User/safari-preview.sublime-build",
+		"/Users/smart/Library/Application Support/Sublime Text 3/Packages/User/chrome-preview.sublime-build",
+		"/Users/smart/Documents/udacity/html5_gamedev/untitled.sublime-project",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas_project/css/canvas.css",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas/jscript.js",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas/page.html",
+		"/Users/smart/Documents/udacity/html5_gamedev/canvas/canvas.sublime-project",
+		"/Users/smart/Documents/udacity/html5_gameDev/canvas/canvas.sublime-project",
+		"/Users/smart/Documents/udacity/html5_gameDev/canvas/html5/pageLayout.html",
+		"/Users/smart/Documents/udacity/html5_gameDev/canvas/javascript/canvasCode.js",
+		"/Users/smart/Documents/udacity/html5_gameDev/main.html",
+		"/Users/smart/Documents/code/project_html5/html/main.html",
+		"/Users/smart/Desktop/Udacity/javascript-basics/frontend-nanodegree-resume/js/helper.js",
+		"/Users/smart/Desktop/Udacity/javascript-basics/frontend-nanodegree-resume/index.html",
+		"/Users/smart/Desktop/Udacity/javascript-basics/frontend-nanodegree-resume/js/resumeBuilder.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myId",
+			"probation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "database.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

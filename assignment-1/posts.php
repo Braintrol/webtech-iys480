@@ -2,12 +2,13 @@
 	
 	session_start();
 
+	include 'fucntions.php';
 	include('database.php');
 
 
 	//Get data from the form
-	$content = $_POST['content'];
-	$UID = $_POST['UID'];
+	$content 	= sanitizeString($_POST['content']);
+	$UID 		= sanitizeString($_POST['UID']);
 
 	//connect to DB
 	$conn = connect_db();
@@ -20,7 +21,8 @@
 
 	echo "$name";
 
-	$result_insert = mysqli_query($conn, "INSERT INTO posts(content, UID, name, profile_pic, likes) VALUES ('$content', $UID, '$name', '$profile_pic', 0)");
+	$result_insert = mysqli_query($conn, "INSERT INTO posts(content, UID, name, profile_pic, likes) 
+	VALUES ('$content', $UID, '$name', '$profile_pic', 0)");
 
 	//check if insert was okay
 	if($result_insert){
